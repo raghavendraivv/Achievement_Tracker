@@ -12,6 +12,7 @@ body{
 
 .jumbotron {
   background-image: linear-gradient(to right, #097979, #00d4ff );
+  padding-bottom: 50px;
 }
 
 .rounded-circle {
