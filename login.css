@@ -1,5 +1,5 @@
 body{
-  background-color: blue;
+  background-color: yellow;
 }
 
 .main {
@@ -12,11 +12,11 @@ body{
 
 .jumbotron {
   background-image: linear-gradient(to right, #097979, #00d4ff );
-  padding-bottom: 50px;
+  padding-bottom: 500;
 }
 
 .rounded-circle {
   position: relative;
-   left: 1400px;
+   left: 1300px;
   top: -140px;
 }
